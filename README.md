@@ -126,15 +126,24 @@ Equalised Histogram:
 
 <img width="453" height="532" alt="image" src="https://github.com/user-attachments/assets/eeb868fd-11f7-4682-b387-86cbea96097e" />
 
+<img width="752" height="538" alt="image" src="https://github.com/user-attachments/assets/05682049-edb4-4e13-9926-6ac4439e942e" />
+
+
 
 Equalized Image:
 
+<img width="431" height="540" alt="image" src="https://github.com/user-attachments/assets/300b7898-5e93-44e8-958a-ed6e1907c0cc" />
+
+<img width="464" height="550" alt="image" src="https://github.com/user-attachments/assets/eafdc4e7-21e3-47f9-8d25-d099a5683a1d" />
 
 
 
 
 Histogram Equalization of Grayscale Image:
 
-<img width="437" height="540" alt="image" src="https://github.com/user-attachments/assets/ebb58885-5e3d-4842-9592-6a06d53ee84b" />
+<img width="1286" height="479" alt="image" src="https://github.com/user-attachments/assets/8ad25750-f4ec-4b04-8884-ce527b47ca6e" />
+
+<img width="1301" height="423" alt="image" src="https://github.com/user-attachments/assets/a85c34cd-3edb-424c-961c-8ef6ecb50266" />
+
 
 
