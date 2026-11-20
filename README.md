@@ -126,7 +126,9 @@ Equalised Histogram:
 
 <img width="453" height="532" alt="image" src="https://github.com/user-attachments/assets/eeb868fd-11f7-4682-b387-86cbea96097e" />
 
-<img width="454" height="519" alt="image" src="https://github.com/user-attachments/assets/71450077-9b93-4de7-b92d-517bf128dfc6" />
+
+Equalized Image:
+
 
 
 
